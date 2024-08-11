@@ -1,11 +1,14 @@
 {
-  "name": "finalelect",
+  "name": "gaby",
   "version": "1.0.0",
+  "description": "",
   "main": "test.js",
   "scripts": {
     "test": "jest"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
 }
